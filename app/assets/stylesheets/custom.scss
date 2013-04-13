@@ -148,6 +148,10 @@ input[type="password"], input[type="text"] {
   height: auto;
 }
 
+input[type="submit"] {
+  margin-bottom:30px;
+}
+
 #error_explanation {
   color: #f00;
   ul {
